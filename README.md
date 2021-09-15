@@ -8,6 +8,7 @@ Please complete the following tasks:
 
 Bonus objectives:
 - Create inputs that send positions for x/y coordinates/percentages for positioning the text that shows
+- Define your server side architecture in IaC (AWS CDK, Cloudformation, Serverless, Terraform etc)
 - Provide some styling customisability for the text that shows (e.g. color, background, bold, italics, font, transitions)
 - Allow for images to be submitted and viewed with the same time-based customisability as the text
 - Make it pretty!
